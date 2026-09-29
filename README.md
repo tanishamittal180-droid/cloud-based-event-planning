@@ -408,14 +408,13 @@ For a production deployment, Firestore Security Rules should be configured so th
 
 Add screenshots of your application here:
 
-```text
+
 <img width="1366" height="768" alt="Screenshot 2026-09-26 160552" src="https://github.com/user-attachments/assets/ae6ccf76-1c08-46d8-8115-05381ac25247" />
 <img width="1366" height="768" alt="Screenshot 2026-09-26 160747" src="https://github.com/user-attachments/assets/a5c45b81-9878-4c62-aa0f-ca36c7ec33f6" />
 <img width="1366" height="768" alt="Screenshot 2026-09-26 160628" src="https://github.com/user-attachments/assets/b20212f6-8e68-4cac-9ff3-68f691b3db03" />
 <img width="1366" height="768" alt="Screenshot 2026-09-26 160944" src="https://github.com/user-attachments/assets/1507c225-0847-4bae-a3e8-c93a2eccc212" />
 <img width="1366" height="768" alt="Screenshot 2026-09-26 160924" src="https://github.com/user-attachments/assets/81a10e0b-1e1a-4be7-931d-9f0fe01cd1b0" />
 
-```
 
 Example:
 
